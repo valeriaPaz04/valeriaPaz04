@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Hi%2C+I'm+Valeria+Paz+Arana;Front-End+and+Web+Design+Enthusiast+%E2%9C%A9" width="80%" />
 
-<!--
-**valeriaPaz04/valeriaPaz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<pre>
+💻 Front-End • Web Design • Full-Stack in progress
+🪄 HTML • CSS • JavaScript • React • Django • Python • .NET
+🎯 Software Development Student @ SENA
+🎮 Music • Games • Anime • Code • Gym ✨
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<img src="https://media.tenor.com/xr7j0bF8q6EAAAAi/laptop-anime.gif" height="60" />
+
+<br><br><br>
+
+[![](https://img.shields.io/badge/portfolio-000000?style=for-the-badge)](https://valeriapaz04.github.io)
+[![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/email-ff69b4?style=for-the-badge)](mailto:tuemail@ejemplo.com)
+</div>
