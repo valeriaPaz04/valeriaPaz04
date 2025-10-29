@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Hi%2C+I'm+Valeria+Paz+Arana;Front-End+and+Web+Design+Enthusiast+%E2%9C%A9" width="80%" />
+<img src="https://github.com/valeriaPaz04/valeriaPaz04/blob/main/ef0c274a98377abf2ba239db7b795e21.jpg?raw=true" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Hi%2C+I'm+Valeria+Paz+Arana;Front-End+and+Web+Design+Enthusiast+%E2%9C%A9" width="70%" />
 
 <br><br>
 
