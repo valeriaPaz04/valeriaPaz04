@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="https://media.tenor.com/xr7j0bF8q6EAAAAi/laptop-anime.gif" height="60" />
+<img src="https://github.com/valeriaPaz04/valeriaPaz04/blob/main/6f2c8a7b-c28f-4d2b-ba3c-15f5d9-unscreen.gif" height="90" />
 
 <br><br><br>
 
